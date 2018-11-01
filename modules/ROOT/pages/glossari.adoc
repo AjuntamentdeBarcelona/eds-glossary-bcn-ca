@@ -1,0 +1,314 @@
+[appendix]
+= Glossari
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+:page-layout: glossary
+
+Aquest glossari comprèn un llistat dels conceptes clau que apareixen en aquesta guia.
+Han estat definits mitjançant un llenguatge no exhaustiu, però si aclaridor, amb l'objectiu que tothom que hi tingui accés, amb independència del nivell de coneixement tècnic del que disposi, pugui compartir el significat i sentit d'aquests termes.
+L'objectiu és facilitar l'ús i comprensió d'aquesta Guia.
+
+[#acord-marc]
+Acord marc ::
+
+Instrument per a la racionalització tècnica de la contractació pública destinat a simplificar els procediments de contractació, i alhora reduir les despeses que aquests porten associades.
+Poden implicar importants avantatges tant per a l'Administració com per als licitadors, com per exemple economitzar (en temps i recursos) la gestió administrativa del procés de contractació, disposar de forma immediata d'una borsa de licitadors que han acreditat la seva solvència tècnica i econòmica.
++
+L'Acord Marc permet establir, en un únic procés, una sèrie de condicions o termes comuns vàlids per als múltiples contractes que se'n derivin mentre l'Acord sigui vigent.
+D'aquesta manera els processos de contractació derivats de l'Acord Marc són més simples i àgils.
++
+Tot i així, cal tenir en compte que també pot comportar efectes negatius sobre la competència, doncs resultat de l'homologació es pot produir un cert tancament del mercat i facilitar la col·lusió entre les empreses que han estat homologades.
+Una duració i abast limitats de l'Acord Marc, així com la definició d'uns criteris adequats per a l'adjudicació de la contractació derivada permeten reduir aquests efectes adversos.
+
+[#col-empreses]
+Col·lusió entre empreses ::
+
+En l'àmbit de la contractació pública, acord en què dues o més empreses decideixen actuar de manera concertada pel que fa a les condicions de prestació dels serveis o d'adquisició de productes en un procés de licitació, amb l'objectiu de minimitzar o fins i tot eliminar la competència de la resta d'empreses que participen en el procés.
++
+La manca de competència real entre els possibles licitadors afavoreix un increment artificial dels preus o unes pitjors condicions de servei, amb el consegüent perjudici per als ciutadans i l'optimització dels recursos públics.
+La pràctica de la col·lusió es pot veure especialment afavorida en determinats procediments de contractació com és el cas dels Acords Marc.
+Al disposar d'un nombre limitat d'empreses homologades, és més fàcil que es doni aquesta concertació, i per tant, el falsejament de la competència en la posterior contractació derivada.
+
+[#consultes-preliminars]
+Consultes preliminars amb el mercat ::
+
+Conjunt d'actuacions orientades a mantenir un diàleg entre els poders adjudicadors i mercat, previ a l'inici de l'expedient de contractació.
+L'objectiu d'aquesta pràctica és facilitar una millor comprensió de les necessitats per part dels proveïdors, estudiar i avaluar el nombre més ampli possible de solucions existents al mercat, i definir adequadament les característiques del contracte.
++
+Aquests processos són especialment recomanables on les prestacions a contractar són particularment complexes (i per tant, també la solució) o requereixen de solucions innovadores.
+
+[#criteris-solvencia]
+Criteris de solvència ::
+
+Conjunt de criteris de tipus econòmic, organitzatiu i tècnic que acrediten la capacitat d'una empresa licitadora i en determinen la seva viabilitat per fer front a l'execució d'un determinat producte i/o servei.
+
+[#dependencia-proveidors]
+Dependència dels proveïdors (_vendor lock-in_) ::
+
+En l'àmbit de les TIC, situació segons la qual el proveïdor d'un determinat producte o servei tecnològic disposa de una situació de poder envers el comprador, donat que un cop implementat el producte o prestat el servei, el client no té capacitat per canviar de producte o proveïdor donat els costos en temps i diners que el procés de canvi implica, o la manca d'alternatives viables.
++
+Aquesta situació pot tenir origen en diferents factors, per exemple:
+
+* Ús de programari propietari accessible només per al proveïdor, i que per tant només pot ser evolucionat o mantingut amb garanties per part d'aquest.
+* Manca de capacitació tècnica del client o organització que no permet assumir el servei amb recursos interns un cop aquest ha estat desenvolupat.
+
+[#electronics-watch]
+Electronics Watch ::
+
+Les institucions del sector públic són grans consumidores de maquinari TIC, com ara ordinadors portàtils i d'escriptori, impressores, pantalles i mitjans d'emmagatzematge, i sovint compren aquests productes a través de contractes a llarg termini.
+Poden, per tant, crear oportunitats de mercat per a les empreses que es comprometen a respectar els drets laborals i les normes de seguretat en les cadenes de subministrament mundials, i fer-les responsables de les vulneracions.
++
+_Electronics Watch_ és una organització de supervisió independent que ajuda els compradors del sector públic a complir amb la seva responsabilitat de protegir els drets laborals dels treballadors i les treballadores en les seves cadenes globals de subministrament de l'electrònica.
+
+[#estandard-obert]
+Estàndard obert ::
+
+És estàndard obert aquell que reuneix les següents condicions:
+
+a.  Que sigui públic i la seva utilització sigui disponible de manera gratuïta o a un cost que no suposi una dificultat d'accés, i
+b.  Que el seu ús i aplicació no estiguin condicionats al pagament d'un dret de propietat intel·lectual o industrial.
+
++
+Pel que fa a estàndards que no entren al catàleg legalment establert com a “obert”, l'IMI adopta la següent definició:
+
+* Ús Lliure i Gratuït.
+Qualssevol drets de propietat intel·lectual i industrial essencials per implementar l'estàndard -incloses les patents “essencials” - han de ser posats a la disposició de tots de forma irrevocable i gratuïta (sense regalies).
+Els acords reversibles sobre regalies o fórmules de preu variable no són acceptables ja que poden crear problemes per al programari lliure i de fonts obertes i la innovació, i en principi no seran usats tret que es justifiqui conformi la Llei.
+Ha d'existir una autorització clara para per permetre l'ús de qualssevol drets de propietat intel·lectual o industrial en projectes de programari lliure o de fonts obertes.
+Així mateix, els drets en el text de l'estàndard han de permetre la seva reproducció i redistribució sense restriccions ni necessitat de signar un acord.
+
+* No discriminació.
+L'estàndard no ha d'establir clàusules tècniques o legals que limitin la seva utilització per grups o per a un propòsit concret.
+
+* Informació completa.
+La informació disponible és suficientment completa per a múltiples implementacions de l'estàndard, en un marc de competència comercial, de manera que aquestes siguin interoperables.
+Els components, interfícies, extensions i protocols han de complir les mateixes condicions de l'estàndard, per evitar que en la pràctica dominin el mercat aplicacions o solucions que implementin versions restringides de l'estàndard.
+
+* Col·laboració oberta.
+El desenvolupament de l'estàndard té lloc en un procés transparent de consens, obert a la participació efectiva de tots els interessats.
+Preferentment la governança de l'estàndard és la responsabilitat d'una organització sense ànim de lucre.
+En cap cas s'admeten estàndards que estiguin dominats per una organització o grup.
+Es prefereixen estàndards que estiguin mantinguts de forma activa i permanent.
+
+[#imi]
+IMI ::
+
+L'http://ajuntament.barcelona.cat/imi/ca/[Institut Municipal d'Informàtica] (IMI) és un organisme autònom local de l'Ajuntament de Barcelona que va néixer l'any 1990 amb l'objectiu de subministrar tots els serveis de les tecnologies de la informació i comunicació (TIC) a l'Ajuntament de Barcelona i als organismes i les empreses públiques que en depenen.
+
+[#interoperabilitat]
+Interoperabilitat ::
+
+Capacitat dels sistemes d'informació i, per tant, dels procediments als quals aquests sistemes donen suport, de compartir dades i possibilitar l'intercanvi d'informació i coneixement entre si (RD 4/2010).
+
+* Interoperabilitat organitzativa: És la dimensió de la interoperabilitat relativa a la capacitat de les entitats i dels processos a través dels quals duen a terme les seves activitats per col·laborar amb la finalitat d'aconseguir objectius acordats mútuament relatius als serveis que presten.
+* Interoperabilitat semàntica: És la dimensió de la interoperabilitat relativa al fet que la informació intercanviada pugui ser interpretable de forma automàtica i reutilitzable per a aplicacions que no van intervenir en la seva creació.
+* Interoperabilitat tècnica: És la dimensió de la interoperabilitat relativa a la connexió entre sistemes i serveis de les tecnologies de la informació, inclosos aspectes com ara les interfícies, la interconnexió, la integració de dades i serveis, la presentació de la informació, l'accessibilitat i la seguretat, o altres aspectes d'una naturalesa anàloga.
+* Interoperabilitat en el temps: És la dimensió de la interoperabilitat relativa a la interacció entre elements que corresponen a diverses onades tecnològiques; es manifesta especialment en la conservació de la informació en suport electrònic.
+
++
+Les interoperabilitats tècnica, semàntica i organitzativa, a més, estan altament regulades a la legislació a partir del Reial decret 4/2010, de 8 de gener, pel qual es regula l'Esquema Nacional d'Interoperabilitat en l'àmbit de l'Administració electrònica.
+
+[#manifest-agil]
+Manifest àgil ::
+
+_http://agilemanifesto.org/iso/ca/manifesto.html_
++
+Manifest per al desenvolupament àgil de programari (de 2001).
++
+Estem posant al descobert maneres millors de desenvolupar programari fent-ho i ajudant a altres a fer-ho.
++
+Mitjançant aquesta feina hem acabat valorant:
+
+* *Individus i interaccions* per sobre de processos i eines
+* *Programari que funciona* per sobre de documentació exhaustiva
+* *Col·laboració amb el client* per sobre de negociació de contractes
+* *Resposta al canvi* per sobre de cenyir-se a una planificació
+
++
+És a dir, encara que els elements de la dreta tenen valor, nosaltres valorem més els de *l'esquerra*.
+
+[#marketplace]
+Marketplace ::
+
+Plataforma tecnològica que facilitarà la interrelació en l'àmbit de la compra pública entre proveïdors de serveis o productes i compradors, en aquest cas l'Administració Municipal.
++
+La finalitat d'aquesta plataforma és:
+
+* Esdevenir un punt de referència i d'accés a tota la informació associada a la compra pública municipal (informació sobre l'estratègia municipal de compra, la planificació dels futurs procediments, procediments en curs, resultats de l'execució, etc.).
+* Facilitar l'adquisició de béns i serveis TIC a tots els òrgans i ens municipals a través d'un mercat electrònic, amb l'objectiu final d'efectuar una transacció en les millors condicions possibles.
+* Facilitar la comunicació entre l'Administració els seus proveïdors.
+* Així mateix la plataforma oferiria informació als ciutadans, fent més visibles els processos de contractació pública, i augmentar la transparència.
+
+[#metodologies-agils]
+Metodologies àgils ::
+
+Conjunt de metodologies utilitzades en l'àmbit del desenvolupament i manteniment de programari, basades en processos iteratius i de curta durada (típicament duren d'una a quatre setmanes), que resulten en un lliurament inicial d'un producte parcial però operatiu i versions consecutives amb funcionalitats cada vegada més complertes.
++
+Aquestes metodologies cerquen a través d'aquestes iteracions continuades aportar valor des d'un inici del projecte, així com una evolució continuada del producte.
+L'objectiu és la introducció de millores i l'evolució constant dels productes, fins assolir un resultat final excel·lent que doni resposta a tots els requeriments de l'usuari.
++
+Aquesta estratègia iterativa permet minimitzar el risc, ja que cada iteració és com un projecte en miniatura i inclou totes les fases necessàries: planificació, anàlisi de requisits, disseny, codificació, proves d'usuari, i documentació.
+Així els problemes en l'execució, l'adaptació als requeriments i els riscos del projecte afloren amb anterioritat i les accions correctores són menys costoses i més immediates que en un projecte tradicional de desenvolupament (on aquests acostumen a aflorar a la fase final del projecte després de mesos de desenvolupaments).
++
+Així mateix, les metodologies àgils posen el focus en la satisfacció de l'usuari, doncs requereixen de la seva participació activa en el projecte tant durant la conceptualització com en el desenvolupament (a través de la validació de les entregues parcials).
+D'aquesta manera, es garanteix que el producte final doni resposta a les necessitats del usuari i estigui alineat amb les seves expectatives.
+
+[#nova-economia]
+Nova economia ::
+
+Coneguda també com a economia del coneixement o economia digital, és dominada per l'explotació de la informació i especialment de les dades (convertides en un dels béns més valuosos i preuats) que es generen com a resultat de l'ús de serveis digitals i productes tecnològics i de comunicació.
++
+En aquest nou context, on destaca internet com a canal i eina de producció, les empreses són més valorades per les seves idees, informació o _know-how_ que no pas pels seus actius materials.
+D'una banda, es pot comerciar i vendre amb tot el món i, de l'altra, gràcies a la interactivitat que ofereix la xarxa, es poden adaptar els productes als gusts dels consumidors a grans velocitats.
+No obstant això, l'allau d'informació i de possibilitats que ofereix internet provoca el naixement de nous intermediaris, els coneguts com a _infomediaris_, que aporten valor afegit en ordenar la informació per als usuaris.
+
+[#open-data]
+Open data / Dades obertes ::
+
+En l'àmbit del sector públicfootnote:[Llei 37/2007 sobre reutilització de la informació del sector públic.], s'entenen com els conjunts de dades que es posen a disposició del públic i poden ser reutilitzats i tornats a publicar, amb el principal objectiu d'aprofitar al màxim els recursos públics disponibles, exposant la informació generada o custodiada per organismes públics, permetent el seu accés i reutilització per al benefici de qualsevol persona o entitat interessada.
++
+Aquesta informació pública, de gran valor potencial, pot ser relativa a qualsevol tema i de qualsevol tipus —documents pictogràfics, dades estadístiques, resultats d'estudis o anàlisis, informació sobre els serveis públics, etc.— Empreses, investigadors, altres institucions públiques, o la ciutadania en general, podran fer ús dels recursos d'informació amb qualsevol finalitat.
++
+L'objectiu és maximitzar les possibilitats econòmiques i socials que ofereixen les dades que es recullen: foment de la transparència en la gestió, millora dels serveis a la ciutadania, generació d'activitats de negoci i l'impacte social, buscant l'eficiència en la governança.
+
+[#principis-agils]
+Principis àgils ::
+
+_http://agilemanifesto.org/iso/ca/principles.html_
++
+Aquests són els dotze principis que es deriven del Manifest _Agile_:
+
+.  La nostra prioritat és satisfer el client mitjançant el lliurament primerenc i continu de programari que aporti valor.
+
+. Acceptem de bon grat canvis en els requisits, inclús si arriben cap al final del desenvolupament.
+Els processos àgils aprofiten el canvi per donar un avantatge competitiu al client.
+
+. Lliurem amb freqüència programari que funcioni, des d'un parell de setmanes fins a un parell de mesos, amb preferència per l'escala de temps més curta.
+
+. La gent de negoci i els desenvolupadors han de treballar junts de manera quotidiana durant tot el projecte.
+
+. Construïm projectes amb l'ajuda d'individus motivats.
+Els donem l'entorn i el suport que necessiten i confiem en ells per fer la feina.
+
+. El mètode més eficient i efectiu de comunicar informació cap a un equip de desenvolupament i dins d'ell és la conversa cara a cara.
+
+. El programari que funciona és la principal mesura de progrés.
+
+. Els processos àgils promouen el desenvolupament sostingut.
+Els promotors, els desenvolupadors i els usuaris han de ser capaços de mantenir un ritme constant de manera indefinida.
+
+. L'atenció contínua a l'excel·lència tècnica i al bon disseny millora l'agilitat.
+
+. La simplicitat, l'art de maximitzar la quantitat de feina que no es fa, és essencial.
+
+. Les millors arquitectures, requisits i dissenys emergeixen d'equips autoorganitzats.
+
+. En intervals regulars, l'equip reflexiona sobre com ésser més efectiu, s'afina i ajusta el seu comportament d'acord amb això.
+
+[#codi-obert]
+Programari de codi obert (Open Source) ::
+
+S'anomena Codi Obert (o _Open Source_ per la seva denominació en anglès) a tot aquell programari que es publica o distribueix sota una llicència oberta.
++
+L'Open Source Initiative (o OSI), és una organització sense ànim de lucre i d'ampli reconeixement i referència internacional que treballa per a la fixació d'estàndards, formació i promoció de les avantatges i rellevància de l'ús del codi obert.
++
+Segons l'OSI, per tal que un programari pugui considerar-se programari obert ha de ser publicat sota una llicència que compleixi deu condicions:
+
+. Lliure redistribució: el programari ha de poder ser regalat o venut lliurement.
+
+. Codi font: ha d'estar inclòs, públic o obtenir-se lliurement.
+
+. Permetre modificacions o treballs derivats: la redistribució de modificacions ha d'estar permesa.
+
+. Integritat del codi font de l'autor: les llicències poden requerir que les modificacions siguin redistribuïdes només com a pedaços deixant el codi original sense canvis.
+
+. No restringir el seu ús a cap persona o grup: ningú pot deixar-se fora.
+
+. No restringir el seu ús a cap activitat, línia de negoci o àrea d'iniciativa: els usuaris comercials no poden ser exclosos.
+
+. Distribució de la llicència: han d'aplicar-se els mateixos drets a tot el qui rebi el programa, i la llicència ha de romandre intacta al distribuir o modificar el programari.
+
+. La llicència no ha de ser específica d'un producte: el programa no pot obtenir una llicència solament com a part d'una distribució major.
+
+. La llicència no ha de restringir altre programari: la llicència no pot obligar que algun altre programari que sigui distribuït amb el programari obert hagi també ser de codi obert.
+
+. La llicència ha de ser tecnològicament neutral: no ha de requerir-se l'acceptació de la llicència per mitjà d'un accés per clic de ratolí o d'altra forma específica del mitjà de suport del programari.
+
++
+Cal diferenciar, per tant, entre els productes com el programari lliure o codi obert/Open Source, que donen als usuaris la llibertat de utilitzar-lo i millorar-lo facilitant l'accés al codi font i permetent-ne la seva modificació i lliure distribució, dels productes que simplement faciliten accés al codi font però no permeten la seva modificació o distribució.
++
+Per tant, no tots els productes que ofereixin el codi font són necessàriament productes Open Source o lliures, ja que tot i ser transparents, no se'n permet la modificació o distribució.
++
+En aquest sentit és important matisar que a tots els efectes jurídics i contractuals, el codi obert és el mateix que el programari lliure.
+Els dos moviments es distingeixen respecte de la seva política, filosofia i ètica.
+
+[#PL]
+Programari Lliure (Free Software) ::
+
+El programari lliure és el programari que pot ser usat, estudiat i modificat sense restriccions, i que pot ser copiat i redistribuït bé en una versió modificada o sense modificar sense cap restricció, o bé amb unes restriccions mínimes per garantir que els futurs destinataris també tindran aquests drets.
+No s'ha de confondre amb el software gratuït o _freeware_.
+En general, es pot dir que un programa és lliure si permet les quatre llibertats definides per la _Free Software Foundation_:
+
+* La llibertat d'executar el programa per a qualsevol propòsit (llibertat 0).
+
+* La llibertat de veure com funciona el programa i adaptar-lo a les necessitats pròpies (llibertat 1).
+L'accés al codi font és un requisit.
+
+* La llibertat de redistribuir còpies (llibertat 2).
+
+* La llibertat de millorar el programa i de distribuir-lo de nou amb les millores realitzades, perquè tota la comunitat se'n pugui beneficiar (llibertat 3).
+Igual que a la llibertat 1, l'accés al codi font és un requisit.
+
++
+No s'ha de confondre amb el software gratuït _freeware_.
+
+[#prog-grat]
+Programari o Software gratuït (_Freeware_) ::
+
+Tipus de software que es distribueix de manera gratuïta però que disposa d'una llicència d'ús que prohibeix que altres usuaris puguin modificar o, en alguns casos, utilitzar lliurement el seu codi.
+L'usuari no té accés al codi font.
+
+[#prog-propietari]
+Programari o software propietari ::
+
+Es denomina software propietari a aquell software que es distribueix sota una llicència que no és lliure o obert, i que no permet la seva lliure modificació o adaptació i redistribució per part de un altre usuari.
+Generalment el codi font no està a disposició de tercers.
+
+[#prop-industrial]
+Propietat industrialfootnote:[Patents i models. Llei 24/2015, de 24 de juliol, de Patents. Signes distintius. Llei 17/2001, de 7 de desembre, de Marques. Dissenys industrials. Llei 20/2003, de 7 de juliol, de Protecció Jurídica del Disseny Industria. Topografies de semiconductors. Llei 11/1988, de 3 de maig, de Protecció Jurídica de les Topografies dels Productes Semiconductors.] ::
+
+Conjunt de drets exclusius que corresponen una persona o entitat sobre un una invenció o altre creació immaterial elaborat per ella (patents, marques o dissenys industrials), i que sigui susceptible d'utilització per part de tercers.
++
+La propietat industrial atorga uns drets d'exclusiva que permeten que la persona que els ostenta pugui decidir qui pot usar-los i com pot usar-los.
++
+Aquests drets s'atorguen a partir d'un procediment que duu a terme l'organisme competent (a Espanya, l'Oficina Espanyola de Patents i Marques) i la seva protecció s'estén a tot el territori en el que l'organisme és competent.
+
+[#prop-intel]
+Propietat intel·lectualfootnote:[Segons el que es disposa al Real Decreto Legislativo 1/1996, de 12 d'abril. Que aprova el text refós de la Llei de Propietat Intel·lectual.] ::
+
+La propietat intel·lectual es conforma pel conjunt de drets de caràcter personal i patrimonial que corresponen als autors i a altres titulars respecte a les obres (en el cas de les TIC, desenvolupaments i prestacions) fruit de la seva creació.
+
+[#sob-dades]
+Sobirania de dades ::
+
+Capacitat de decisió i autogestió per part d'una persona física o jurídica sobre les dades que d'ella disposa un tercer, fent-la a la vegada responsable sobre el seu ús i consum.
+
+[#sob-tec]
+Sobirania tecnològica ::
+
+La sobirania tecnològica implica una alta capacitat de decisió i autogestió per part d'una organització o entitat (en aquest cas l'Ajuntament) sobre la tecnologia que utilitza en un determinat àmbit, així com la capacitat de mantenir i evolucionar-la d'acord amb els seus principis i necessitats.
++
+Aquest plantejament es contraposa, a la dinàmica clàssica de proveïment de serveis TIC, que s'ha basat, en gran part, en l'ús de programari d'ús privatiu sota llicència.
++
+Aquestes dinàmiques han afavorit una dependència en vers els proveïdors de tecnologia.
+
+[#e-subasta]
+Subhasta electrònica ::
+
+Procés de negociació iteratiu els de selecció d'ofertes que compta amb un dispositiu electrònic d'avaluació d'ofertes automàtic basat en el preu o altres variables, i sense la intervenció del poder adjudicador en la valoració dels diferents variables en subhasta.
++
+El procés requereix d'una primera avaluació de les ofertes presentades pels proveïdors, als que després es convida a participar en la subhasta per tal que puguin oferir millores en relació als elements de valoració (preu, o altres elements).
++
+No es tracta d'un procediment de contractació, si no un instrument o eina aplicable a diferents procediments de contractació sempre que la naturalesa del servei o producte objecte de la compra ho facin possible d'acord amb el que s'estableix a la Llei de Contractes del Sector Públic.
