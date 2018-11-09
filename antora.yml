@@ -1,4 +1,4 @@
-name: glossari
+name: ca/glossary
 title: Glossari
 version: 0.1
-start_page: ROOT:glossari.adoc
+start_page: ROOT:glossary.adoc
