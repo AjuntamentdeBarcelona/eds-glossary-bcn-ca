@@ -1,1 +1,1 @@
-* xref:glossari.adoc[Glossari]
+* xref:glossary.adoc[Glossari]
