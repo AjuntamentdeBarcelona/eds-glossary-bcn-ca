@@ -248,7 +248,6 @@ Els dos moviments es distingeixen respecte de la seva política, filosofia i èt
 Programari Lliure (Free Software) ::
 
 El programari lliure és el programari que pot ser usat, estudiat i modificat sense restriccions, i que pot ser copiat i redistribuït bé en una versió modificada o sense modificar sense cap restricció, o bé amb unes restriccions mínimes per garantir que els futurs destinataris també tindran aquests drets.
-No s'ha de confondre amb el software gratuït o _freeware_.
 En general, es pot dir que un programa és lliure si permet les quatre llibertats definides per la _Free Software Foundation_:
 
 * La llibertat d'executar el programa per a qualsevol propòsit (llibertat 0).
