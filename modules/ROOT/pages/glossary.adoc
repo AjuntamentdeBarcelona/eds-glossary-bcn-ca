@@ -306,7 +306,7 @@ Aquestes dinàmiques han afavorit una dependència en vers els proveïdors de te
 [#e-subasta]
 Subhasta electrònica ::
 
-Procés de negociació iteratiu els de selecció d'ofertes que compta amb un dispositiu electrònic d'avaluació d'ofertes automàtic basat en el preu o altres variables, i sense la intervenció del poder adjudicador en la valoració dels diferents variables en subhasta.
+Procés de negociació iteratiu de selecció d'ofertes que compta amb un dispositiu electrònic d'avaluació d'ofertes automàtic basat en el preu o altres variables, i sense la intervenció del poder adjudicador en la valoració dels diferents variables en subhasta.
 +
 El procés requereix d'una primera avaluació de les ofertes presentades pels proveïdors, als que després es convida a participar en la subhasta per tal que puguin oferir millores en relació als elements de valoració (preu, o altres elements).
 +
